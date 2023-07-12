@@ -31,5 +31,6 @@ end
 gem 'jekyll-compose', group: [:jekyll_plugins]
 gem 'jekyll-analytics', group: [:jekyll_plugins]
 gem 'jekyll-spaceship', group: [:jekyll_plugins]
+gem 'jekyll-docs', group: [:jekyll_plugins]
 
 
