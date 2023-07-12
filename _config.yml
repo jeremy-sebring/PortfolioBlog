@@ -198,17 +198,11 @@ jekyll-archives:
     category: /categories/:name/
 
 plugins:
-  - jekyll-analytics
   - jekyll-spaceship
 
 #Start of Plugin Configs
-jekyll_analytics:
-  Plausible:
-    domain: 'sebring.dev'   # The domain configured in plausible
-    source: 'https://plausible.io/js/script.js' # The source of the javascript
 
-
-ekyll-spaceship:
+jekyll-spaceship:
   # default enabled processors
   processors:
     - table-processor
