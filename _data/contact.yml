@@ -3,13 +3,15 @@
 - type: email
   icon: "fas fa-envelope"
   noblank: false # open link in current tab
+  url: 'mailto:jeremy@sebringair.com'
 
 - type: rss
   icon: "fas fa-rss"
   noblank: true
-  
+
 - type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  noblank: true
   url:  'https://www.linkedin.com/in/jeremy-sebring'                  # Fill with your Linkedin homepage
 #
 # - type: stack-overflow
